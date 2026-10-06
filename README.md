@@ -1,5 +1,9 @@
 # TP Données Distribuées — API Pokémon et Apache Cassandra
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV0bnJoemw0Y3hncjhtaDhwNzhhYWxvamh5M2N0MnpzOWxycDRlaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vnGlErQHuF9BK/giphy.gif" alt="Pokémon" width="400">
+</p>
+
 M2 Big Data & IA — Données distribuées
 
 Ce projet récupère des données depuis la PokeAPI, les stocke dans Apache Cassandra et les exploite à l'aide de requêtes CQL orientées métier.
