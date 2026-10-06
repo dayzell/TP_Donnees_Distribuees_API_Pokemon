@@ -133,3 +133,6 @@ python script/explore_api.py bulbasaur types    # détail d'un champ
 python script/explore_api.py pikachu stats.0    # premier élément d'une liste
 python script/explore_api.py "?limit=5" results # endpoint de liste
 ```
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MTN1b3VxNTV4b295anJ1cXhwYWJ3ZW53OTdrZDhkYnBhcGJpNTlsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CXaDzPow0SJqM/giphy.gif" alt="Pokémon_rondflex" width="400">
+</p>
