@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+# Énoncés fournis par l'enseignant
+TP_Cassandra_Exploitation_API_Requetes_M2.md
+Installation_Cassandra.md
